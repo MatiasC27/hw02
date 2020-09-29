@@ -4,3 +4,18 @@ body {
     line-height: 37px;
     padding: 23px;
 }
+
+#content{
+    width: 760px;
+    float: left;
+}
+
+#sidebar{
+    float: left;
+}
+
+h1 {
+    font-size: 45px;
+    line-height: 70px;
+    margin-bottom: 37px;
+}
